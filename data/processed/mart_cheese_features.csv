@@ -1,0 +1,31 @@
+cheese_name,cheese_url,country_of_origin,milk_type,organic,pasteurisation,region,strength_of_cheese,style_of_cheese,age,milk_type_group,style_group,strength_score
+Brie de Meaux Dongé,https://www.thecheesesociety.co.uk/product/brie-de-meaux-aoc/,France,Cows,False,Pasteurised,Ille De France,Medium - Strong,Soft,7 - 9 Weeks +,cow,soft,3
+Chocolate & Chilli Cheddar – Easter Special,https://www.thecheesesociety.co.uk/product/chocolate-and-chilli-cheddar/,England,Cows,False,Unpasteurised,Emmental,Medium - Strong,Hard,12 Months,cow,hard,3
+Colston Bassett Stilton PDO,https://www.thecheesesociety.co.uk/product/colston-bassett-stilton-pdo/,England,Cows,False,Pasteurised,Nottinghamshire,Medium - Strong,Blue,8 - 12 Weeks +,cow,blue,3
+Crème Chèvre,https://www.thecheesesociety.co.uk/product/creme-chevre/,Switzerland,Goats,False,Unpasteurised,Emmental,Mild - Medium,Soft,1 Month +,goat,soft,1
+Aettis,https://www.thecheesesociety.co.uk/product/aettis/,Switzerland,Cows,False,Unpasteurised,Jura,Medium,Hard,3 - 4 Weeks +,cow,hard,2
+Alpine Meadows,https://www.thecheesesociety.co.uk/product/alpine-meadows/,Switzerland,Cows,False,Unpasteurised,Emmental,Medium - Strong,Hard,12 Months,cow,hard,3
+Ribblesdale Honey Goat,https://www.thecheesesociety.co.uk/product/ribblesdale-honey-goat/,,Goats,False,Pasteurised,Burgos,Mild - Medium,Soft,2 - 3 Months +,goat,soft,1
+Kidderton Ash,https://www.thecheesesociety.co.uk/product/kidderton-ash-2/,England,Goats,False,Pasteurised,"Salisbury, Wiltshire",Medium,Soft,4 - 5 Weeks +,goat,soft,2
+Baron Bigod Brie,https://www.thecheesesociety.co.uk/product/baron-bigod-brie-cheese/,England,Cows,False,Pasteurised,"Bungay, Suffolk",Medium,Soft,,cow,soft,2
+Blue Monday,https://www.thecheesesociety.co.uk/product/blue-monday/,England,Cows,False,Pasteurised,"Thirsk, Yorkshire",Medium,Creamy,6 - 8 Weeks,cow,creamy,2
+Cashel Blue,https://www.thecheesesociety.co.uk/product/cheese-cashel-blue/,Ireland,Cows,False,Pasteurised,Co. Tipperary,Medium,Blue,8 Weeks +,cow,blue,2
+Ferme Chévre,https://www.thecheesesociety.co.uk/product/ferme-chevre/,France,Goats,False,Pasteurised,Nantes,Medium,Soft,4 - 5 Weeks +,goat,soft,2
+Godminster Organic Cheddar Heart,https://www.thecheesesociety.co.uk/product/godminster-organic-heart/,England,Cows,True,Pasteurised,"Bruton, Somerset",Medium,Firm,8 Months +,cow,other,2
+Comte AOC 24 Months,https://www.thecheesesociety.co.uk/product/comte-aoc/,France,Cows,False,Unpasteurised,Jura,Medium - Strong,Firm,24 Months,cow,other,3
+Delice de Bourgogne,https://www.thecheesesociety.co.uk/product/delice-de-bourgogne/,France,Cows,False,Pasteurised,Burgundy,Medium,Soft,6 Weeks +,cow,soft,2
+Eggleston,https://www.thecheesesociety.co.uk/product/eggleston/,England,Cows,False,Unpasteurised,,Medium,Washed Rind,4 Weeks +,cow,other,2
+Colston Bassett Stilton PDO Wheel,https://www.thecheesesociety.co.uk/product/colston-bassett-stilton-pdo-2/,England,Cows,False,Pasteurised,Nottinghamshire,Medium - Strong,Blue,8 - 12 Weeks +,cow,blue,3
+Dambuster,https://www.thecheesesociety.co.uk/product/dambuster/,England,Cows,False,Pasteurised,"Preston, Lancashire",Medium,Firm,4 Months +,cow,other,2
+Bath Soft,https://www.thecheesesociety.co.uk/product/bath-soft/,England,Cows,True,Pasteurised,,Mild - Medium,Soft & Bloomy,,cow,soft,1
+Blacksticks Blue,https://www.thecheesesociety.co.uk/product/blacksticks-blue-cheese/,England,Cows,False,Pasteurised,"Preston, Lancashire",Medium,Soft Blue,2 Months +,cow,blue,2
+Cornish Yarg,https://www.thecheesesociety.co.uk/product/cornish-yarg/,England,Cows,False,Pasteurised,Cornwall,Mild - Medium,Crumbly,8 Weeks +,cow,other,1
+Epoisses Halves,https://www.thecheesesociety.co.uk/product/half-epoisses-de-bourgogne-aoc/,France,Cows,False,Unpasteurised,"Cote D'Or, Burgundy",Strong,Washed Rind,6 Weeks +,cow,other,3
+Fleur des Alpes,https://www.thecheesesociety.co.uk/product/fleur-des-alpes/,France,Cows,False,Pasteurised,Savoy,Medium - Strong,Washed Rind,6 - 8 Weeks,cow,other,3
+Gorgonzola Dolce DOP,https://www.thecheesesociety.co.uk/product/gorgonzola-dolce-dop/,Italy,Cows,False,Pasteurised,Lombardia & Piedmont,Medium,Soft Blue,3 - 6 Months +,cow,blue,2
+Blackbomber Extra Mature,https://www.thecheesesociety.co.uk/product/cheese-blackbomber/,Wales,Cows,False,Pasteurised,Snowdonia,Medium - Strong,Hard,8 Months +,cow,hard,3
+Bleu des Causses AOC,https://www.thecheesesociety.co.uk/product/bleu-des-causses-aoc/,France,Cows,False,Unpasteurised,Aveyron,Medium,Soft Blue,3 Months +,cow,blue,2
+Cahill’s Porter,https://www.thecheesesociety.co.uk/product/cahills-porter/,Ireland,Cows,False,Pasteurised,Limerick,Medium,Semi - Firm,12 Weeks +,cow,other,2
+Cote Hill Blue,https://www.thecheesesociety.co.uk/product/cote-hill-blue/,England,Cows,False,Pasteurised,"Osgoodby, Lincolnshire",Medium,Blue,4 - 8 Weeks +,cow,blue,2
+Gjetost Brown Cheese,https://www.thecheesesociety.co.uk/product/norwegian-brown-cheese/,Norway,Mixed Milk,False,Pasteurised,Oslo,Medium,Semi - Firm,6 - 8 Weeks,mixed,other,2
+Goat Gouda with Fenugreek,https://www.thecheesesociety.co.uk/product/goat-gouda-with-fenugreek/,Holland,Goats,False,Pasteurised,Woerden,Medium,Semi - Firm,8 - 12 Weeks +,goat,other,2
